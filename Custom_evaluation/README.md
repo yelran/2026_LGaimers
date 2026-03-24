@@ -55,3 +55,29 @@
 - 정답 기반 평가 (exact match)
 - 논리적 계산 및 reasoning 능력 확인 가능
 
+
+---
+
+## 📊 Evaluation Results
+
+## 1. MMLU Pro (English)
+
+| Domain | Accuracy | Output toks/s |
+|--------|----------|---------------|
+| biology | 0.5254 | 2472.62 |
+| business | 0.4316 | 2335.46 |
+| computer science | 0.4463 | 2408.27 |
+| law | 0.2910 | 1847.03 |
+| math | 0.6152 | 2628.99 |
+
+
+## 2. MMLU Pro (Korean)
+
+| Domain | Accuracy | Output toks/s |
+|--------|----------|---------------|
+| biology | 0.2237 | 2472.62 |
+| business | 0.3066 | 2579.41 |
+| computer science | 0.3049 | 1773.81 |
+| law | 0.1777 | 1817.85 |
+| math | 0.4688 | 2407.02 |
+
