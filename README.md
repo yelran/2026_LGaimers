@@ -1,4 +1,5 @@
-# 2026 LG Aimers 8기
+# ![LG Aimers](https://img.shields.io/badge/LG-A50034?style=flat&logoColor=white)     2026 LG Aimers 8기
+
 
 > EXAONE-4.0-1.2B 모델을 대상으로 성능 손실 최소화 + 추론 속도 최적화를 목표로 한 LLM 경량화 해커톤
 
