@@ -9,12 +9,13 @@
 | **Agentic Tool Use**<br>(도구 사용) | mint, toolbench | API 호출 및 tool 사용 능력 | 소형 모델(1.2B) 측정 어려움<br>실제 대회 metric에는 거의 미반영 |
 | **Multilinguality**<br>(다국어 이해/생성) | kobest_copa, kobest_boolq, kobest_hellaswag, mgsm_ko, xwinograd, xcopa, xnli, flores | 한국어 인과 추론(copa)<br>다국어 수학(mgsm) | metric = accuracy / BLEU<br>한국어 모델에 유리 |
 
----
+<br>
+<br>
 
 
 
 ## 📊 LM-Evaluation Harness Tasks (In-house Evaluation)
-https://github.com/EleutherAI/lm-evaluation-harness/tree/main/lm_eval/tasks
+> https://github.com/EleutherAI/lm-evaluation-harness/tree/main/lm_eval/tasks
 
 
 ### 1. World Knowledge & Reasoning
@@ -58,11 +59,15 @@ https://github.com/EleutherAI/lm-evaluation-harness/tree/main/lm_eval/tasks
 - 논리적 계산 및 reasoning 능력 확인 가능
 
 
----
+<br>
+<br>
+
 
 ## 📊 Evaluation Results
 
-## 1. MMLU Pro (English)
+
+
+### 1. MMLU Pro (English)
 
 | Domain | Accuracy | Output toks/s |
 |--------|----------|---------------|
@@ -73,7 +78,7 @@ https://github.com/EleutherAI/lm-evaluation-harness/tree/main/lm_eval/tasks
 | math | 0.6152 | 2628.99 |
 
 
-## 2. MMLU Pro (Korean)
+### 2. MMLU Pro (Korean)
 
 | Domain | Accuracy | Output toks/s |
 |--------|----------|---------------|
