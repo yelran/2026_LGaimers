@@ -116,8 +116,8 @@
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat&logo=huggingface&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![vLLM](https://img.shields.io/badge/vLLM-412991?style=flat&logoColor=white)
-![GPTQ](https://img.shields.io/badge/GPTQ-00A550?style=flat&logoColor=white)
 ![AWQ](https://img.shields.io/badge/AWQ-FF6B6B?style=flat&logoColor=white)
+![GPTQ](https://img.shields.io/badge/GPTQ-00A550?style=flat&logoColor=white)
 ![PEFT](https://img.shields.io/badge/PEFT-FF6B6B?style=flat&logoColor=white)
 ![LoRA](https://img.shields.io/badge/LoRA-7B2D8B?style=flat&logoColor=white)
 
