@@ -73,9 +73,9 @@
 ## 경량화 기법 및 실험 결과
 
 ### 기법 개요
-> **GPTQ** : 비트(W4A16/W8A16/W4A8/W8A8), 캘리브레이션, layer 보호, mixed precision, 수치 안정화 튜닝
+> **GPTQ** : bit(W4A16/W8A16/W4A8/W8A8), calibration data , layer 보호, mixed precision, 수치 안정화 튜닝
 >
-> **AWQ** : 비트/그룹 설정, Smoothing 전략, Auto→Fallback 매핑, 캘리브레이션 튜닝
+> **AWQ** : bit/group 설정, Smoothing 전략, Auto→Fallback 매핑, calibration 튜닝
 
 <br>
 
@@ -95,8 +95,8 @@
 > 4bit(속도↑ 성능↓) vs 8bit(성능↑ 속도↓) — trade-off 균형점 
 
 - 마지막 layer는 error가 크게 튀어 ignore 처리가 효과적
-- 캘리브레이션 데이터 길이 필터링이 성능 향상에 유효
-- dampening_frac 조정으로 가중치 오차 최소화 가능
+- calibration data 길이 필터링이 성능 향상에 유효
+- dampening_frac 조정으로 가중치 오차 최소화
 
 <br>
 
