@@ -14,6 +14,8 @@
 
 
 ## 📊 LM-Evaluation Harness Tasks (In-house Evaluation)
+https://github.com/EleutherAI/lm-evaluation-harness/tree/main/lm_eval/tasks
+
 
 ### 1. World Knowledge & Reasoning
 
