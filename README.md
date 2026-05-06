@@ -66,7 +66,7 @@
 - Hybrid Attention (local + global)
 - GQA (Query 32개, KV 8개)
 - SwiGLU FFN
-- 최대 65K 토큰 컨텍스트
+- 최대 65K token context
 
 <br>
 
@@ -96,7 +96,7 @@
 
 - 마지막 layer는 error가 크게 튀어 ignore 처리가 효과적
 - calibration data 길이 필터링이 성능 향상에 유효
-- dampening_frac 조정으로 가중치 오차 최소화
+- dampening_frac 조정으로 weight 오차 최소화
 
 <br>
 
