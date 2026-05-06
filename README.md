@@ -113,6 +113,7 @@
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat&logo=huggingface&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![vLLM](https://img.shields.io/badge/vLLM-412991?style=flat&logoColor=white)
 ![GPTQ](https://img.shields.io/badge/GPTQ-00A550?style=flat&logoColor=white)
