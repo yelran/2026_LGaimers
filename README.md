@@ -79,6 +79,16 @@
 
 <br>
 
+### 실험 검증 환경
+> 베이스 모델 대비 단일·혼합 도메인 성능을 비교하여 리더보드 점수와의 상관관계 분석
+> 
+> vLLM Serving : `max_gen_toks=2048, limit=512, batch_size=auto, gpu_memory_utilization=0.85`
+
+<img width="1564" height="424" alt="image" src="https://github.com/user-attachments/assets/67db06ee-87e2-4a4b-ad4e-9357ac62947f" />
+
+<br>
+
+
 ### 주요 실험 결과
 
 |  | Method | Score | Inference Time | Size |
