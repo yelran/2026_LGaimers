@@ -105,7 +105,7 @@
 > 4bit(속도↑ 성능↓) vs 8bit(성능↑ 속도↓) — trade-off 균형점 
 
 - layer별 error 분석에 따른 ignore_list 처리 효과적
-- layer별 민감도 분석에 따른 mixed precision 깆ㅂ기법이 성능 향상에 효과적
+- layer별 민감도 분석에 따른 mixed precisio 기법이 성능 향상에 효과적
 - MANTA-1M 이외의 추가 dataset 혼합
 - calibration data 길이 필터링이 성능 향상에 유효
 - dampening_frac 조정 weight 오차 최소화
